@@ -1,0 +1,8 @@
+[
+  { "id": 1, "author": "Alain Prost", "text": "He is French" },
+  { "id": 2, "author": "Nigel Mansell", "text": "He is Britain" },
+  { "id": 4, "author": "Ayrton Senna", "text": "He is Brazilian" },
+  { "id": 5, "author": "Nico Rosberg", "text": "He is German" },
+  { "id": 3, "author": "Kamui Kobayashi", "text": "He is Japanese" }
+]
+
